@@ -1,6 +1,7 @@
 ## ![title](https://user-images.githubusercontent.com/59585323/151017065-1c148f41-b7a4-4218-80af-c987ab68fff6.png)
 
 ### About me
+![Technology Stack](https://user-images.githubusercontent.com/59585323/151019901-cd919e7a-7dd3-4e30-aac8-55f5180ad0c8.png)
 
 👨‍💻 Software Developer @ SAP.<br/>
 🌱 Currently studying/specializing in Next.js<br/>
