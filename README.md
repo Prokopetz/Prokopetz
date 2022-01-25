@@ -8,8 +8,7 @@
 🎮 Gamer in the free times
 
 ### Pet Projects
-[Pay Your Name](https://payyourname.com) - A website integrating with Stripe where you can pay any amount to list your name.<br/>
-The purpose of this project is to design and develop a production-enabled website with two friends. You can find the repository [here](https://github.com/joaodacolsoares/payyourname).
+[Pay Your Name](https://payyourname.com) - A website where you can pay any amount to list your name using Stripe payment API. Design and development of a production-enabled website with two friends. You can find the repository [here](https://github.com/joaodacolsoares/payyourname).
 
 [Gym App](https://gym-web-navy.vercel.app/) (In Progress) - A website based on Spotify design where you can create training playlists for the gym.<br/>
-The focus with this project is to learn navigation and API development with Next.js. You can find the repository [here](https://github.com/Prokopetz/gym-web).
+The focus of this project is to learn navigation and API development with Next.js. You can find the repository [here](https://github.com/Prokopetz/gym-web).
