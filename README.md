@@ -1,16 +1,16 @@
-### Hi there 👋
+## ![title](https://user-images.githubusercontent.com/59585323/150994847-4d8703cf-ec98-49ae-a7a0-ec90f0081e56.png)
 
-<!--
-**Prokopetz/Prokopetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+👨‍💻 Software Developer @ SAP.<br/>
+🌱 Currently studying/specializing in Next.js<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+![Technologies](https://user-images.githubusercontent.com/59585323/150994083-38179c1d-2658-4cd8-94ad-adf1dcb14cce.png)
+
+### Pet Projects
+[Pay Your Name](https://payyourname.com) - A website integrating with Stripe where you can pay any amount to list your name.<br/>
+The purpose of this project is to design and develop a production-enabled website with two friends. You can find the repository [here](https://github.com/joaodacolsoares/payyourname).
+
+[Gym App](https://gym-web-navy.vercel.app/) - A website based on Spotify design where you can create training playlists for the gym.<br/>
+The focus with this project is to learn navigation and API development with Next.js. You can find the repository [here](https://github.com/Prokopetz/gym-web).
