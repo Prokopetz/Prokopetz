@@ -5,6 +5,8 @@
 
 👨‍💻 Software Developer @ SAP.<br/>
 🌱 Currently studying/specializing in Next.js<br/>
+📚 Comic books enthusiast<br/>
+🎮 Gamer in the free times
 
 ### Technologies
 ![Technologies](https://user-images.githubusercontent.com/59585323/150994083-38179c1d-2658-4cd8-94ad-adf1dcb14cce.png)
