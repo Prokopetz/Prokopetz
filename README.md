@@ -14,7 +14,7 @@
 The focus of this project is to learn navigation and API development with Next.js. You can find the repository [here](https://github.com/Prokopetz/gym-web).
 
 ### College Projects
-Maze Portal - A game where you need to find a key and reach the portal that is open while avoiding getting caught by the floor that is turning into lava. A isometric game developed using OpenGL and C++ in the fifth semester. You can find the repository [here](https://github.com/Prokopetz/TrabGB-PG)
+Maze Portal - A game where you need to find a key and reach the portal that is open while avoiding getting caught by the floor that is turning into lava. A isometric game developed using OpenGL and C++ in the fifth semester. You can find the repository [here](https://github.com/Prokopetz/TrabGB-PG).
 
 ### You can find me here
 [<img src="https://user-images.githubusercontent.com/59585323/151029092-79399fd1-5f27-4984-bf21-1420cededeaf.png" width="50"/>](https://www.linkedin.com/in/nicolas-prokopetz/)
