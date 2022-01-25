@@ -11,5 +11,5 @@
 [Pay Your Name](https://payyourname.com) - A website integrating with Stripe where you can pay any amount to list your name.<br/>
 The purpose of this project is to design and develop a production-enabled website with two friends. You can find the repository [here](https://github.com/joaodacolsoares/payyourname).
 
-[Gym App](https://gym-web-navy.vercel.app/) - A website based on Spotify design where you can create training playlists for the gym.<br/>
+[Gym App](https://gym-web-navy.vercel.app/) (In Progress) - A website based on Spotify design where you can create training playlists for the gym.<br/>
 The focus with this project is to learn navigation and API development with Next.js. You can find the repository [here](https://github.com/Prokopetz/gym-web).
