@@ -12,3 +12,6 @@
 
 [Gym App](https://gym-web-navy.vercel.app/) (In Progress) - A website based on Spotify design where you can create training playlists for the gym.<br/>
 The focus of this project is to learn navigation and API development with Next.js. You can find the repository [here](https://github.com/Prokopetz/gym-web).
+
+### You can find me here
+[<img src="https://user-images.githubusercontent.com/59585323/151029092-79399fd1-5f27-4984-bf21-1420cededeaf.png" width="50"/>](https://www.linkedin.com/in/nicolas-prokopetz/)
