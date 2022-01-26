@@ -22,7 +22,7 @@
 👨‍💻 Software Developer @ SAP.<br/>
 🌱 Currently studying/specializing in Next.js<br/>
 📚 Comic books enthusiast<br/>
-🎮 Gamer in the free times
+🎮 Gamer in the free time
 
 ### Pet Projects
 [Pay Your Name](https://payyourname.com) - A website where you can pay any amount to list your name using Stripe payment API. Design and development of a production-enabled website with two friends. You can find the repository [here](https://github.com/joaodacolsoares/payyourname).
