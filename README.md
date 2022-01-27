@@ -21,7 +21,8 @@
 ### About me
 👨‍💻 Software Developer @ SAP.<br/>
 🌱 Currently studying/specializing in Next.js<br/>
-📚 Comic books enthusiast<br/>
+2️⃣ Pair Programming Enthusiast<br/>
+📚 Comic books fan<br/>
 🎮 Gamer in the free time
 
 ### Pet Projects
