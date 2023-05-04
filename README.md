@@ -27,16 +27,16 @@
 
 ### Pet Projects
 [Pay Your Name](https://payyourname.com) - A website where you can pay any amount to list your name using Stripe payment API. Design and development of a production-enabled website with two friends. You can find the repository [here](https://github.com/joaodacolsoares/payyourname).
-<img src="https://user-images.githubusercontent.com/59585323/236281551-eab17a93-e41e-4949-86ec-e2f44a98ebb8.jpeg"  width="70%" height="350">
-<img src="https://user-images.githubusercontent.com/59585323/236281548-31a9365f-1ae6-4fcd-848c-2d30bf8e647d.jpeg"  width="20%" height="350" style="margin-left:10vw">
+<img src="https://user-images.githubusercontent.com/59585323/236281551-eab17a93-e41e-4949-86ec-e2f44a98ebb8.jpeg"  width="70%">
+<img src="https://user-images.githubusercontent.com/59585323/236281548-31a9365f-1ae6-4fcd-848c-2d30bf8e647d.jpeg"  width="20%">
 
 [Gym App](https://gym-web-navy.vercel.app/) (In Progress) - A website based on Spotify design where you can create training playlists for the gym.<br/>
 The focus of this project is to learn navigation and API development with Next.js. You can find the repository [here](https://github.com/Prokopetz/gym-web).
 
 ### College Projects
 Maze Portal - A game where you need to find a key and reach the portal that is open while avoiding getting caught by the floor that is turning into lava. A isometric game developed using OpenGL and C++ in university. You can find the repository [here](https://github.com/Prokopetz/TrabGB-PG).
-<img src="https://user-images.githubusercontent.com/59585323/236278287-ecd12ee3-7f3e-4cce-90b1-ffe57ceefbdf.jpeg"  width="49%" height="400">
-<img src="https://user-images.githubusercontent.com/59585323/236278222-b2a9f14a-c0fd-46a3-b54e-0c142e825420.jpeg"  width="50%" height="400">
+<img src="https://user-images.githubusercontent.com/59585323/236278287-ecd12ee3-7f3e-4cce-90b1-ffe57ceefbdf.jpeg"  width="49%">
+<img src="https://user-images.githubusercontent.com/59585323/236278222-b2a9f14a-c0fd-46a3-b54e-0c142e825420.jpeg"  width="50%">
 
 ### You can find me here
 [<img src="https://user-images.githubusercontent.com/59585323/151029092-79399fd1-5f27-4984-bf21-1420cededeaf.png" width="50"/>](https://www.linkedin.com/in/nicolas-prokopetz/)
