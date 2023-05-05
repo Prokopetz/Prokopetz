@@ -26,12 +26,16 @@
 🎮 Gamer in the free time
 
 ### Pet Projects
-[Pay Your Name](https://payyourname.com) - A website where you can pay any amount to list your name using Stripe payment API. Design and development of a production-enabled website with two friends. You can find the repository [here](https://github.com/joaodacolsoares/payyourname).
+[Trivia Quiz Game](https://trivia-quiz-app-chi.vercel.app) - A fun and interactive quiz game built with Next.js that utilizes the Open Trivia DB API to provide a variety of trivia questions to users. You can find the repository [here](https://github.com/Prokopetz/trivia-quiz-app).
+
+You can play it [here](https://trivia-quiz-app-chi.vercel.app). It's worth mentioning that the user interface has been designed specifically for mobile devices.
+
+<img width="200px" alt="image" src="https://user-images.githubusercontent.com/59585323/236472964-b50a0a29-bc1c-48f8-a667-67584de8dab9.png"> <img width="200px" alt="image" src="https://user-images.githubusercontent.com/59585323/236473106-3f1ebfd0-5dcd-48d9-b3fe-c42f2504088c.png">
+
+
+**Pay Your Name** - A website where you can pay any amount to list your name using Stripe payment API. Design and development of a production-enabled website with two friends. You can find the repository [here](https://github.com/joaodacolsoares/payyourname).
 <img src="https://user-images.githubusercontent.com/59585323/236281551-eab17a93-e41e-4949-86ec-e2f44a98ebb8.jpeg"  width="70%">
 <img src="https://user-images.githubusercontent.com/59585323/236281548-31a9365f-1ae6-4fcd-848c-2d30bf8e647d.jpeg"  width="20%">
-
-[Gym App](https://gym-web-navy.vercel.app/) (In Progress) - A website based on Spotify design where you can create training playlists for the gym.<br/>
-The focus of this project is to learn navigation and API development with Next.js. You can find the repository [here](https://github.com/Prokopetz/gym-web).
 
 ### College Projects
 Maze Portal - A game where you need to find a key and reach the portal that is open while avoiding getting caught by the floor that is turning into lava. A isometric game developed using OpenGL and C++ in university. You can find the repository [here](https://github.com/Prokopetz/TrabGB-PG).
