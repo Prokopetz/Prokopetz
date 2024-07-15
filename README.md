@@ -19,11 +19,10 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ### About me
-👨‍💻 Software Developer @ Storage360.<br/>
-🌱 Currently studying/specializing in Next.js<br/>
-2️⃣ Pair Programming Enthusiast<br/>
-📚 Comic books fan<br/>
-🎮 Gamer in the free time
+👨‍💻 Senior Software Developer<br/>
+📖 BSc in Computer Science <br/>
+🌱 Fullstack developer taking a deep dive into scalability and database modeling<br/>
+💻 Pair Programming enthusiast<br/>
 
 ### You can find me here
 [<img src="https://user-images.githubusercontent.com/59585323/151029092-79399fd1-5f27-4984-bf21-1420cededeaf.png" width="50"/>](https://www.linkedin.com/in/nicolas-prokopetz/)
