@@ -10,4 +10,3 @@ A experienced software engineer with a BSc in Computer Science, 8 years of progr
 🧒 Started programming when I was 15 years old </br>
 🌱 Fullstack developer taking a deep dive into scalability and database modeling<br/>
 💻 Pair programming enthusiast<br/>
-[<img src="https://user-images.githubusercontent.com/59585323/151029092-79399fd1-5f27-4984-bf21-1420cededeaf.png" width="50"/>](https://www.linkedin.com/in/nicolas-prokopetz/)
