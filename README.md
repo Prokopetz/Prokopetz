@@ -1,4 +1,6 @@
-## Hi there! 👋
+## Hi there! I'm Nicolas 👋
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"/>](https://www.linkedin.com/in/nicolas-prokopetz/)
+
 
 A experienced software engineer with a BSc in Computer Science, 8 years of programming experience, and 6 years of professional experience in developing scalable systems using microservices, as well as creating high-quality and interactive user interfaces.
 
@@ -8,6 +10,4 @@ A experienced software engineer with a BSc in Computer Science, 8 years of progr
 🧒 Started programming when I was 15 years old </br>
 🌱 Fullstack developer taking a deep dive into scalability and database modeling<br/>
 💻 Pair programming enthusiast<br/>
-
-## You can find me here
 [<img src="https://user-images.githubusercontent.com/59585323/151029092-79399fd1-5f27-4984-bf21-1420cededeaf.png" width="50"/>](https://www.linkedin.com/in/nicolas-prokopetz/)
